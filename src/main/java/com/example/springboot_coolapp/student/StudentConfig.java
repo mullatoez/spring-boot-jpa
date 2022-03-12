@@ -1,5 +1,6 @@
 package com.example.springboot_coolapp.student;
 
+import com.example.springboot_coolapp.model.Student;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

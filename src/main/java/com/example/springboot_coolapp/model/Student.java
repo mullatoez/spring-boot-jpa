@@ -1,4 +1,4 @@
-package com.example.springboot_coolapp.student;
+package com.example.springboot_coolapp.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
